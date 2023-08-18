@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamarhouchh&label=Profile%20views&color=e42a28&style=flat" alt="oussamarhouch" /> </p>
 
-🚀 Passionate about leveraging technology to solve real-world challenges! As a recent graduate in software engineering, I constantly seek opportunities to push the boundaries of innovation. Currently focusing on signal processing and AI, I am captivated by the fascinating world of data engineering and cloud technologies.
+🚀 Passionate about leveraging technology to solve real-world challenges! As a software engineering student, I constantly seek opportunities to push the boundaries of innovation. Currently focusing on signal processing and AI, I am captivated by the fascinating world of data engineering and cloud technologies.
 
 💡 My ultimate objective? Utilizing my skills and knowledge to develop groundbreaking solutions in these cutting-edge fields. I am committed to transforming ideas into tangible results, driven by curiosity, and fueled by a strong desire to make a positive impact.
 
