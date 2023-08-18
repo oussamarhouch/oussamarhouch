@@ -146,12 +146,12 @@
    <li>
       <h3>Others:</h3>
       <div>
-         <a href="https://www.w3schools.com/cpp/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="c" width="40" height="40"/>
-         </a>
-         &emsp;
          <a href="https://www.w3schools.com/c/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+         </a>
+         &emsp;
+         <a href="https://www.w3schools.com/cpp/" target="_blank">
+         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cpp" width="40" height="40"/>
          </a>
          &emsp;
          <a href="https://git-scm.com/" target="_blank">
