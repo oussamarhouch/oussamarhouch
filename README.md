@@ -107,7 +107,7 @@
          <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
          </a>
          <a href="https://www.tensorflow.org/" target="_blank">
-         <img src="https://www.gstatic.com/devrel-devsite/prod/vc901a5242fa1f51622c87b6b540eca04c81baea0c307ecf1bb2dd2ea202bf099/tensorflow/images/lockup.svg" alt="Tensorflow" width="80" height="60"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="80" height="60"/>
          </a>
          <a href="https://pytorch.org/" target="_blank">
          <img src="https://pytorch.org/assets/images/logo.svg" alt="Pytorch" width="80" height="60"/>
