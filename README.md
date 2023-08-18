@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Oussama Rhouch</h1>
-<h3 align="center">Software Engineering Student | DevOps Enthusiast | Exchange Student at Grenoble INP - PHELMA</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamarhouchh&label=Profile%20views&color=e42a28&style=flat" alt="oussamarhouch" /> </p>
+<h1 align="center">Hi 👋, I'm Oussama Rhouch</h1><br/>
+<h3 align="center">Software Engineering Student | DevOps Enthusiast | Exchange Student at Grenoble INP - PHELMA</h3><br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamarhouchh&label=Profile%20views&color=e42a28&style=flat" alt="oussamarhouch" /> </p><br/>
 🚀 Passionate about leveraging technology to solve real-world challenges! As a software engineering student, I am constantly searching for opportunities to push the limits of innovation. Currently focused on signal processing and AI, I am drawn to the fascinating world of data engineering and cloud technologies.
-💡 My ultimate objective? Utilizing my skills and knowledge to develop groundbreaking solutions in these cutting-edge fields. I am committed to transforming ideas into tangible results, driven by curiosity, and fueled by a strong desire to make a positive impact.
-🔍 Curious about my work? Head over to my GitHub profile! There, you'll discover an impressive collection of projects and code samples that showcase my abilities and interests. From web development to Data Science practices, I love exploring various facets of computer science.
-✉️ Feel free to reach out to me at oussamarhouch@gmail.com. I'm always excited to connect with fellow enthusiasts, collaborate on exciting projects, and share ideas that can shape the future of technology!
+<br/>
+💡 My ultimate objective? Utilizing my skills and knowledge to develop groundbreaking solutions in these cutting-edge fields. I am committed to transforming ideas into tangible results, driven by curiosity, and fueled by a strong desire to make a positive impact.<br/>
+🔍 Curious about my work? Head over to my GitHub profile! There, you'll discover an impressive collection of projects and code samples that showcase my abilities and interests. From web development to Data Science practices, I love exploring various facets of computer science.<br/>
+✉️ Feel free to reach out to me at oussamarhouch@gmail.com. I'm always excited to connect with fellow enthusiasts, collaborate on exciting projects, and share ideas that can shape the future of technology!<br/>
 <br>
 <h2 align="left">Github Stats</h2>
 <p>
