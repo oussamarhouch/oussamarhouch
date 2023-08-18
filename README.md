@@ -25,7 +25,7 @@
 <br>
 <h2 align="left">Connect with me</h2>
 <p align="left">
-   <a href="https://www.linkedin.com/in/oussamaoussamarhouch/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussamaoussamarhouch" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/oussamarhouch/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussamarhouch" height="30" width="40" /></a>
    &emsp;
 </p>
 <br>
@@ -59,7 +59,7 @@
             </a>
             &emsp;
          <a href="https://reactjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="react" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
             </a>
             &emsp;
             <a href="https://www.figma.com/" target="_blank">
