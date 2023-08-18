@@ -8,8 +8,11 @@
 <br>
 <h2 align="left">Github Stats</h2>
 <p>
-   ![oussamarhouch's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oussamarhouch&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamarhouch&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/oussamarhouch/github-readme-stats)
+   
+![oussamarhouch's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oussamarhouch&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamarhouch&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </p>
 <br>
 <h2 align="left">Connect with me</h2>
