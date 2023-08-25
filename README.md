@@ -171,7 +171,7 @@
          </a>
          &emsp;
          <a href="https://www.w3schools.com/cs/index.php" target="_blank">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c#" width="40" height="40"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c#" width="35" height="40"/>
          </a>
          &emsp;
          <a href="https://git-scm.com/" target="_blank">
