@@ -73,7 +73,7 @@
          </a>
          &emsp;
          <a href="https://jakarta.ee/" target="_blank">
-         <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo-color.svg" alt="Java EE" width="100" height="30"/>
+         <img src="https://upload.wikimedia.org/wikipedia/fr/6/67/Jakarta_ee_logo_stacked.png" alt="Java EE" width="40" height="40"/>
          </a>
          &emsp;
          <a href="https://spring.io/" target="_blank">
