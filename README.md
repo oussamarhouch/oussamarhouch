@@ -129,7 +129,7 @@
          </a>
          &emsp;
          <a href="https://keras.io/" target="_blank">
-         <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="25"/>
+         <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="40"/>
          </a>
          &emsp;
       </div>
