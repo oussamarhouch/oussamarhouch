@@ -105,21 +105,21 @@
       <h3>Data Science</h3>
       <div>
          <a href="https://numpy.org/" target="_blank">
-         <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
          </a>
          <a href="https://pandas.pydata.org/" target="_blank">
-         <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="60"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
          </a>
          <a href="https://www.tensorflow.org/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="80" height="60"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40"/>
          </a>
          <a href="https://pytorch.org/" target="_blank">
-         <img src="https://pytorch.org/assets/images/logo.svg" alt="Pytorch" width="80" height="60"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/>
          <a href="https://scikit-learn.org/stable/" target="_blank">
          <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Pytorch" width="80" height="30"/>
          </a>
          <a href="https://opencv.org/" target="_blank">
-         <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="30" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
          </a>
          <a href="https://keras.io/" target="_blank">
          <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="25"/>
@@ -130,19 +130,23 @@
       <h3>Databases:</h3>
       <div>
          <a href="https://www.mysql.com/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
          </a>
          &emsp;
          <a href="https://www.postgresql.org/" target="_blank">
-         <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
          </a>
          &emsp;
          <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15" target="_blank">
-         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="40" height="40"/>
          </a>
          &emsp;
          <a href="https://docs.mongodb.com/" target="_blank">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" alt="MongoDB" width="110" height="30"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+         </a>
+         &emsp;
+         <a href="https://www.sqlite.org/index.html" target="_blank">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
          </a>
          &emsp;
       </div>
@@ -159,11 +163,15 @@
          </a>
          &emsp;
          <a href="https://git-scm.com/" target="_blank">
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+         </a>
+         &emsp;
+         <a href="https://about.gitlab.com/fr-fr/" target="_blank">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
          </a>
          &emsp;
          <a href="https://www.docker.com/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
          </a>
          &emsp;
          <a href="https://www.jenkins.io/" target="_blank">
@@ -171,7 +179,7 @@
          </a>
          &emsp;
          <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="openShift" width="40" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="openShift" width="40" height="40"/>
          </a>
          &emsp;
          <a href="https://www.linux.org/" target="_blank">
