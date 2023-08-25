@@ -107,23 +107,31 @@
          <a href="https://numpy.org/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
          </a>
+         &emsp;
          <a href="https://pandas.pydata.org/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
          </a>
+         &emsp;
          <a href="https://www.tensorflow.org/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="40" height="40"/>
          </a>
+         &emsp;
          <a href="https://pytorch.org/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40"/>
+         </a>
+         &emsp;
          <a href="https://scikit-learn.org/stable/" target="_blank">
          <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Pytorch" width="80" height="30"/>
          </a>
+         &emsp;
          <a href="https://opencv.org/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
          </a>
+         &emsp;
          <a href="https://keras.io/" target="_blank">
          <img src="https://keras.io/img/logo.png" alt="Keras" width="80" height="25"/>
          </a>
+         &emsp;
       </div>
    </li>
    <li>
