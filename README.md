@@ -170,6 +170,10 @@
          <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cpp" width="40" height="40"/>
          </a>
          &emsp;
+         <a href="https://www.w3schools.com/cs/index.php" target="_blank">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="c#" width="40" height="40"/>
+         </a>
+         &emsp;
          <a href="https://git-scm.com/" target="_blank">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
          </a>
