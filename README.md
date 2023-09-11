@@ -5,7 +5,7 @@
 <br/><br/>
 💡 My ultimate objective? Utilizing my skills and knowledge to develop groundbreaking solutions in these cutting-edge fields. I am committed to transforming ideas into tangible results, driven by curiosity, and fueled by a strong desire to make a positive impact.<br/><br/>
 🔍 Curious about my work? Head over to my GitHub profile! There, you'll discover an impressive collection of projects and code samples that showcase my abilities and interests. From web development to Data Science practices, I love exploring various facets of computer science.<br/><br/>
-✉️ Feel free to reach out to me at oussamarhouch@gmail.com. I'm always excited to connect with fellow enthusiasts, collaborate on exciting projects, and share ideas that can shape the future of technology!<br/>
+✉️ Feel free to reach out to me at oussama.rhouch@grenoble-inp.org . I'm always excited to connect with fellow enthusiasts, collaborate on exciting projects, and share ideas that can shape the future of technology!<br/>
 <br><br/>
 <h2 align="left">Github Stats</h2>
 <p>
